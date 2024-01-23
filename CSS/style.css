@@ -8,8 +8,8 @@
 
     }
     .image{
-        height: 100vh;
-        width: 360px;
+        height: 100%;
+        width: 100%;
         background-image: url(..//ASSETS/IMAGE/embreve-smatphone.png);
         background-position: center;
         background-size: cover;
